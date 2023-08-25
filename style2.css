@@ -14,3 +14,25 @@ ol.inside-markers {
 /* ul {
   list-style: url(star.png) outside square;
 } */
+
+ul.navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background: Pink;
+  width: 150px;
+}
+.navigation li a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: Black;
+  padding: 10px;
+}
+li a.current {
+  background: HotPink;
+}
+li a:hover {
+  background: DeepPink;
+  color: White;
+}
