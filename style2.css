@@ -36,3 +36,18 @@ li a:hover {
   background: DeepPink;
   color: White;
 }
+/* ul.navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background: Pink;
+  overflow: hidden;
+}
+.navigation li a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: Black;
+  padding: 10px;
+  float: left;
+}  horizontal*/
