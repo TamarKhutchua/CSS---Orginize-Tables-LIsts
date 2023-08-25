@@ -18,3 +18,15 @@ table.space {
   border-spacing: 20px;
   empty-cells: hide;
 }
+td.twin {
+  border: 5px double DeepPink;
+}
+td.dots {
+  border: 5px dotted DeepPink;
+}
+td.full {
+  border: 5px solid DeepPink;
+}
+table.fold {
+  border-collapse: collapse;
+}
