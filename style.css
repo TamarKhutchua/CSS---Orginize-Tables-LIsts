@@ -14,3 +14,7 @@ caption {
 table.fixed {
   table-layout: fixed;
 }
+table.space {
+  border-spacing: 20px;
+  empty-cells: hide;
+}
